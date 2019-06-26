@@ -25,3 +25,19 @@ Create a app that filter patient blood types on the data, then return patient st
 * Use `map()` to create an array of age values from the filtered data.
 
 * Use the math.js library to calculate the summary statistics.
+
+
+##  Run Locally
+Run this command git clone https://github.com/meuwebsite/PatientBloodType--App/
+
+Make sure you have installed in your computer all libraries used above
+
+Double check if you are in the right directory in you terminal ...that often cause errors
+
+Terminal Should be addressed at folder: flask_app
+
+Run the command: python app.py in your terminal
+
+Copy the output link and paste in your Browser
+
+You are now in the dev environment and you can play around
