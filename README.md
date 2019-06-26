@@ -5,7 +5,7 @@
 
 ## Background
 
-Create a app that filter patient blood types on the data, then return patient info. 
+Create a app that filter patient blood types on the data, then return patient stats. 
 
 
 ## Goals
